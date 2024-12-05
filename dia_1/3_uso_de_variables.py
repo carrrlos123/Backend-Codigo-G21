@@ -59,7 +59,7 @@ print (resultado)
 
 print (resultado)
 
-numero1, numero2, numero3 =3, 'juliaca', true, 4.5
+numero1, numero2, numero3 = 3, 'juliaca', 'true', 4.5
 print(numero1)
 print(numero2)
 
